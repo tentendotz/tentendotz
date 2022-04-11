@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **ttt-net/ttt-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Tech Stack 🚀
+
+<br>
+
+## Tools I Use 🧰
+
+<br>
+
+## My GitHub Stats 😺
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttt-net&show_icons=true&theme=dark))
