@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 <br>
@@ -36,5 +37,5 @@ Here are some ideas to get you started:
 
 <br>
 
-## My GitHub Stats 😺
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttt-net&show_icons=true&theme=dark)
+## My GitHub Stats ☆☆☆
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttt-net&show_icons=true&count_private=true&theme=dark)
