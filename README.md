@@ -38,4 +38,5 @@ Here are some ideas to get you started:
 <br>
 
 ## My GitHub Stats ☆☆☆
-![ttt-net's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttt-net&show_icons=true&count_private=true&theme=dark)(https://github.com/ttt-net "ttt-net's GitHub stats")
+![ttt-net's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttt-net&show_icons=true&count_private=true&theme=dark)](https://github.com/ttt-net "ttt-net's GitHub stats")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttt-net&theme=dark)](https://github.com/ttt-net "Top Langs")
