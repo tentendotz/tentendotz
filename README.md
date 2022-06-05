@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 <br>
 
 ## My GitHub Stats ☆☆☆
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttt-net&show_icons=true&count_private=true&theme=dark)
+![ttt-net's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttt-net&show_icons=true&count_private=true&theme=dark)(https://github.com/ttt-net "ttt-net's GitHub stats")
