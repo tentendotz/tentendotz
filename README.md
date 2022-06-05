@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttt-net&theme=dark)](https://github.com/ttt-net "Top Langs")
 
 <br>
 
@@ -39,4 +40,3 @@ Here are some ideas to get you started:
 
 ## My GitHub Stats ☆☆☆
 [![ttt-net's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttt-net&show_icons=true&count_private=true&theme=dark)](https://github.com/ttt-net "ttt-net's GitHub stats")
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttt-net&layout=compact&theme=dark)](https://github.com/ttt-net "Top Langs")
