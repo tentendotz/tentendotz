@@ -32,10 +32,35 @@ Here are some ideas to get you started:
 
 <br>
 
-## Most Used Languages in my repositories 💎
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tentendotz&layout=compact&theme=moltack)](https://github.com/tentendotz "Top Langs")
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/tentendotz">
+        <picture>
+          <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api?username=tentendotz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=nightowl">
+          <img alt="github-stats-image" height=200
+            src="https://github-readme-stats.vercel.app/api?username=tentendotz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=buefy">
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/tentendotz">
+        <picture>
+          <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tentendotz&layout=compact&hide_border=true&theme=nightowl">
+          <img alt="top-langs-image" height=170
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=tentendotz&layout=compact&hide_border=true&theme=buefy">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <br>
+
 
 ## Tools I Use 🧰
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://github.com/tentendotz)
@@ -47,7 +72,3 @@ Here are some ideas to get you started:
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://github.com/tentendotz)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/tentendotz)
 
-<br>
-
-## My GitHub Stats ☆☆☆
-[![tentendotz's GitHub stats](https://github-readme-stats.vercel.app/api?username=tentendotz&show_icons=true&count_private=true&theme=moltack)](https://github.com/tentendotz "tentendotz's GitHub stats")
